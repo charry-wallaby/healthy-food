@@ -1,0 +1,22 @@
+{
+  "name": "healthy-food",
+  "version": "1.0.0",
+  "description": "Healthy food project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maximr89/healthy-food.git"
+  },
+  "author": "Maksim R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maximr89/healthy-food/issues"
+  },
+  "homepage": "https://github.com/maximr89/healthy-food#readme",
+  "devDependencies": {
+    "json-server": "^0.16.1"
+  }
+}
