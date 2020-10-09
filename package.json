@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maximr89/healthy-food.git"
+    "url": "git+https://github.com/charry-wallaby/healthy-food.git"
   },
   "author": "Maksim R",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/maximr89/healthy-food/issues"
+    "url": "https://github.com/charry-wallaby/healthy-food/issues"
   },
-  "homepage": "https://github.com/maximr89/healthy-food#readme",
+  "homepage": "https://github.com/charry-wallaby/healthy-food#readme",
   "browserslist": [
-   "> 1%",
-   "not dead"
+    "> 1%",
+    "not dead"
   ],
   "devDependencies": {
     "@babel/cli": "^7.10.5",
