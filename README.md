@@ -1,6 +1,6 @@
 # Healthy food
 
-[![](https://cdn1.savepice.ru/uploads/2020/10/9/24f70cf8e6d4a4bf50197d0675dac2b2-full.png)](https://cdn1.savepice.ru/uploads/2020/10/9/24f70cf8e6d4a4bf50197d0675dac2b2-full.png)
+[![](https://res.cloudinary.com/charry-walaby/image/upload/v1603916437/screenshot1_dvs5jy.png)](https://res.cloudinary.com/charry-walaby/image/upload/v1603916437/screenshot1_dvs5jy.png)
 
 **Build JS:**  `npx webpack`
 ###
